@@ -1,0 +1,99 @@
+*** crystal for WooCommerce Changelog ***
+
+2018-07-12 version 1.1.10
+ * Updated readme.txt
+
+2018-07-11 version 1.1.9
+ * Replaced signup route
+
+2018-06-12 version 1.1.8
+ * Hotfix on submit form
+
+2018-06-11 version 1.1.7
+ * Added new flow without automatic WooCommerce keys generation
+
+2018-06-08 version 1.1.6
+ * Added error message in log
+
+2018-06-08 version 1.1.5
+ * Added error message in log
+
+2018-06-08 version 1.1.4
+ * Added woocommerce keys error notice
+
+2018-06-08 version 1.1.3
+ * Added woocommerce keys error handling
+
+2018-06-07 version 1.1.2
+ * Added new check to detect if ssl is enabled
+
+2018-04-09 version 1.1.1
+ * Fixed Get pixel call
+
+2018-04-04 version 1.1.0
+ * Removed FacebookPixel plugin
+ * Replaced crystal.io link with crystal.ai
+ * Replaced get_option on plugin load with wpdb->get_results
+
+2018-01-12 version 1.0.17
+ * Hotfix on saving infos
+
+2018-01-12 version 1.0.16
+ * Check SSL active
+
+2018-01-11 version 1.0.15
+ * Compatibility with Sentora
+
+2018-01-11 version 1.0.14
+ * Fix facebook pixel activation
+
+2018-01-09 version 1.0.13
+ * Hotfix on set pixel
+
+2017-12-13 version 1.0.12
+ * Replaced plugin uri
+
+2017-12-11 version 1.0.11
+ * Fixed error on activation
+
+2017-12-06 version 1.0.10
+ * Added settings link in plugins package
+
+2017-12-06 version 1.0.9
+ * Updated readme.txt
+
+2017-11-27 version 1.0.8
+ * Fixed activation error on wc_api
+ * Added deactivation call to crystal.io
+ * Check active plugin facebook pixel on crystal-for-woocommerce load
+
+2017-11-23 version 1.0.7
+ * Fixed activation error and replacing const declaration
+
+2017-11-22 version 1.0.6
+ * Fixed webhook error on connection and FB Pixel version
+
+2017-11-22 version 1.0.5
+ * Fixed api error on connection
+
+2017-11-16 version 1.0.4
+ * Updated prod url
+
+2017-11-16 version 1.0.3
+ * Api fix
+
+2017-11-16 version 1.0.2
+ * Api improvement
+ * get pixel list
+ * set active pixel
+
+ 2017-11-16 version 1.0.1
+  * Api improvement
+  * get pixel list
+  * set active pixel
+
+2017-11-03 version 1.0.0
+ * Added changelog
+ * created api to login with crystal
+ * Enabled API KEYS WooCommerce
+ * Enabled Facebook Pixel
